@@ -1,0 +1,7 @@
+Bahasa program yang digunakan adalah Java
+Buka program pada IDE, contoh (IntelliJ IDEA)
+
+Run program, dan masukkan banyaknya angka yang ingin di input.
+Angka yang diinput merupakan bilangan bulat.
+Lalu inputkan angka.
+Program berhasil mengeluarkan output yang diinginkan
